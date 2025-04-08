@@ -1,0 +1,22 @@
+id = "jade"
+name = "Jade"
+version = "0.0.1"
+schema_version = 1
+description = "Jade - Green Zed themd"
+repository = "https://github.com/ksandvik/jade"
+authors = ["Kent Sandvik <ksandvik@dotsandblobs.com>"]
+themes = ["themes/jade.json"]
+icon_themes = []
+languages = []
+
+[lib]
+
+[grammars]
+
+[language_servers]
+
+[context_servers]
+
+[slash_commands]
+
+[indexed_docs_providers]
