@@ -1,8 +1,8 @@
 id = "jade"
 name = "Jade"
-version = "0.0.1"
+version = "1.0.0"
 schema_version = 1
-description = "Jade - Green Zed themd"
+description = "Jade - Green Zed theme"
 repository = "https://github.com/ksandvik/jade"
 authors = ["Kent Sandvik <ksandvik@dotsandblobs.com>"]
 themes = ["themes/jade.json"]
